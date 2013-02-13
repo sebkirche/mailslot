@@ -1,0 +1,3 @@
+[attr]binary -diff -crlf
+[attr]utf16 diff merge -crlf
+
